@@ -1,0 +1,8 @@
+{
+  "title": "MonkeCraft",
+  "description": "Приватный Minecraft-сервер для друзей.",
+  "version": "1.0.0",
+  "minecraft": "26.3",
+  "loader": "Fabric",
+  "news": "Добро пожаловать на сервер!"
+}
