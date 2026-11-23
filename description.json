@@ -1,8 +1,8 @@
 {
-  "title": "MonkeCraft",
-  "description": "ыыыааыаыаы блять че я напхуй несу",
+  "title": "MonkeCraft VANILLA+",
+  "description": "Небольшой сервер для своих, без лишних людей.",
   "version": "1.0.0",
   "minecraft": "26.3",
   "loader": "Fabric",
-  "news": "Добро пожаловать на сервер!"
+  "news": "Заходи, исследуй и выживай!"
 }
