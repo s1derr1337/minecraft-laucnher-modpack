@@ -1,5 +1,5 @@
 {
-    "pack_version": "0.1.0",
+    "pack_version": "0.2.0",
     "minecraft": "26.3",
     "loader": "fabric",
     "mods": [
@@ -8,6 +8,41 @@
             "filename": "voicechat-fabric-2.6.27+26.3.jar",
             "path": "mods/voicechat-fabric-2.6.27+26.3.jar",
             "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/x9jLR94Q/voicechat-fabric-2.6.27%2B26.3.jar",
+            "sha256": ""
+        },
+        {
+            "name": "Voice Chat Category Volumes",
+            "filename": "category-volumes.properties",
+            "path": "config/voicechat/category-volumes.properties",
+            "url": "https://raw.githubusercontent.com/s1derr1337/minecraft-laucnher-modpack/main/config/voicechat/category-volumes.properties",
+            "sha256": ""
+        },
+        {
+            "name": "Voice Chat Player Volumes",
+            "filename": "player-volumes.properties",
+            "path": "config/voicechat/player-volumes.properties",
+            "url": "https://raw.githubusercontent.com/s1derr1337/minecraft-laucnher-modpack/main/config/voicechat/player-volumes.properties",
+            "sha256": ""
+        },
+        {
+            "name": "Voice Chat Translations",
+            "filename": "translations.properties",
+            "path": "config/voicechat/translations.properties",
+            "url": "https://raw.githubusercontent.com/s1derr1337/minecraft-laucnher-modpack/main/config/voicechat/translations.properties",
+            "sha256": ""
+        },
+        {
+            "name": "Voice Chat Client Config",
+            "filename": "voicechat-client.properties",
+            "path": "config/voicechat/voicechat-client.properties",
+            "url": "https://raw.githubusercontent.com/s1derr1337/minecraft-laucnher-modpack/main/config/voicechat/voicechat-client.properties",
+            "sha256": ""
+        },
+        {
+            "name": "Voice Chat Server Config",
+            "filename": "voicechat-server.properties",
+            "path": "config/voicechat/voicechat-server.properties",
+            "url": "https://raw.githubusercontent.com/s1derr1337/minecraft-laucnher-modpack/main/config/voicechat/voicechat-server.properties",
             "sha256": ""
         }
     ]
