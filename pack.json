@@ -1,6 +1,4 @@
 {
-    "enabled": false,
-    "message": "MonkeCraft временно недоступен. Мы проводим технические работы.",
     "version": "1.0.2",
     "minecraft": "26.3",
     "loader": "fabric",
