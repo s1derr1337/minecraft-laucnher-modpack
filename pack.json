@@ -1,7 +1,7 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "minecraft": "26.3",
     "loader": "fabric",
     "loader_version": "0.20.1",
-    "pack_url": "https://github.com/s1derr1337/minecraft-laucnher-modpack/releases/download/pack-1.0.0/MonkecraftMODPACK.1.0.0.mrpack"
+    "pack_url": "https://github.com/s1derr1337/minecraft-laucnher-modpack/releases/download/pack-1.0.1/MonkeCraft.MODPACK.1.0.1.mrpack"
 }
