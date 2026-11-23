@@ -1,0 +1,12 @@
+{
+  "mods": [
+    {
+      "name": "Simple Voice Chat",
+      "description": "Голосовой чат между игроками"
+    },
+    {
+      "name": "Sodium",
+      "description": "Оптимизация графики"
+    }
+  ]
+}
