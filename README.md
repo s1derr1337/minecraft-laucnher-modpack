@@ -1,4 +1,4 @@
-# minecraft-laucnher-modpack
+# MonkeCraft Modpack
 Модпак и файлы конфигурации для SMP MonkeCraft
 Список модов(актульная версия v1.0.2):
 
