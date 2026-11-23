@@ -2,11 +2,243 @@
   "mods": [
     {
       "name": "Simple Voice Chat",
-      "description": "тест"
+      "description": "Голосовое общение прямо в игре."
     },
     {
       "name": "Sodium",
-      "description": "Оптимизация графики"
+      "description": "Оптимизация графики и повышение FPS."
+    },
+    {
+      "name": "Iris Shaders",
+      "description": "Поддержка шейдеров."
+    },
+    {
+      "name": "Lithium",
+      "description": "Оптимизация игровой логики."
+    },
+    {
+      "name": "FerriteCore",
+      "description": "Снижение потребления оперативной памяти."
+    },
+    {
+      "name": "ModernFix",
+      "description": "Оптимизация загрузки и работы игры."
+    },
+    {
+      "name": "ImmediatelyFast",
+      "description": "Ускорение рендеринга интерфейса и некоторых элементов."
+    },
+    {
+      "name": "Entity Culling",
+      "description": "Не рендерит сущности и объекты, которые не видны игроку."
+    },
+    {
+      "name": "More Culling",
+      "description": "Дополнительная оптимизация отрисовки."
+    },
+    {
+      "name": "Sodium Extra",
+      "description": "Дополнительные настройки графики для Sodium."
+    },
+    {
+      "name": "Xaero's Minimap",
+      "description": "Мини-карта с отображением окружающей местности."
+    },
+    {
+      "name": "Xaero's World Map",
+      "description": "Полноценная карта исследованного мира."
+    },
+    {
+      "name": "Zoomify",
+      "description": "Удобное приближение камеры."
+    },
+    {
+      "name": "Roughly Enough Items (REI)",
+      "description": "Просмотр предметов и рецептов."
+    },
+    {
+      "name": "Litematica",
+      "description": "Создание и использование схем построек."
+    },
+    {
+      "name": "AmbientSounds",
+      "description": "Дополнительные атмосферные звуки окружающего мира."
+    },
+    {
+      "name": "Particle Rain",
+      "description": "Атмосферные эффекты дождя."
+    },
+    {
+      "name": "Visuality",
+      "description": "Дополнительные визуальные эффекты и частицы."
+    },
+    {
+      "name": "Continuity",
+      "description": "Поддержка соединённых текстур блоков."
+    },
+    {
+      "name": "3D Skin Layers",
+      "description": "Отображение внешних слоёв скина в объёмном виде."
+    },
+    {
+      "name": "Not Enough Animations",
+      "description": "Дополнительные анимации игрока."
+    },
+    {
+      "name": "Dynamic Lights",
+      "description": "Динамическое освещение от предметов и источников света."
+    },
+    {
+      "name": "Dungeons and Taverns",
+      "description": "Новые структуры и места для исследования."
+    },
+    {
+      "name": "Tectonic",
+      "description": "Изменённый и более разнообразный рельеф мира."
+    },
+    {
+      "name": "Moog's Voyager Structures",
+      "description": "Новые структуры, встречающиеся при исследовании мира."
+    },
+    {
+      "name": "Epic Dungeons",
+      "description": "Подземелья и дополнительные места для приключений."
+    },
+    {
+      "name": "Epic Jungle Temples",
+      "description": "Новые храмовые структуры в джунглях."
+    },
+    {
+      "name": "Epic Witch Huts",
+      "description": "Обновлённые и расширенные хижины ведьм."
+    },
+    {
+      "name": "Epic Structures: Villages",
+      "description": "Изменённые и расширенные деревни."
+    },
+    {
+      "name": "Epic Structures: Igloos",
+      "description": "Дополнительные варианты иглу."
+    },
+    {
+      "name": "Alex's Mobs",
+      "description": "Разнообразные новые существа и животные."
+    },
+    {
+      "name": "Keeg's Weapons",
+      "description": "Дополнительное оружие."
+    },
+    {
+      "name": "Better Deco",
+      "description": "Дополнительные декоративные элементы."
+    },
+    {
+      "name": "Glowing Torchflower",
+      "description": "Светящиеся декоративные растения."
+    },
+    {
+      "name": "RightClickHarvest",
+      "description": "Удобный сбор урожая одним нажатием."
+    },
+    {
+      "name": "Easy Shulker Boxes",
+      "description": "Упрощённое взаимодействие с шалкеровыми ящиками."
+    },
+    {
+      "name": "Better Horses",
+      "description": "Дополнительные улучшения и возможности для лошадей."
+    },
+    {
+      "name": "Express Carts",
+      "description": "Дополнительные возможности для вагонеток."
+    },
+    {
+      "name": "Tree Capitator Lite",
+      "description": "Удобная рубка деревьев."
+    },
+    {
+      "name": "Day Count",
+      "description": "Отображение количества дней в мире."
+    },
+    {
+      "name": "Pickup Notifications",
+      "description": "Уведомления о подобранных предметах."
+    },
+    {
+      "name": "BetterF3",
+      "description": "Более удобный и настраиваемый экран отладки."
+    },
+    {
+      "name": "Mouse Tweaks",
+      "description": "Удобное управление предметами в инвентаре."
+    },
+    {
+      "name": "Controlling",
+      "description": "Поиск и управление назначенными клавишами."
+    },
+    {
+      "name": "Better Advancements",
+      "description": "Улучшенный интерфейс достижений."
+    },
+    {
+      "name": "Detail Armor Bar",
+      "description": "Более подробное отображение состояния брони."
+    },
+    {
+      "name": "Status Effect Bars",
+      "description": "Отображение полос длительности эффектов."
+    },
+    {
+      "name": "Immersive Hotbar",
+      "description": "Изменённый визуальный стиль панели быстрого доступа."
+    },
+    {
+      "name": "Armor Stand Poses",
+      "description": "Дополнительные позы для стойки брони."
+    },
+    {
+      "name": "Elytra Trims",
+      "description": "Дополнительные возможности оформления элитр."
+    },
+    {
+      "name": "Graves",
+      "description": "Место хранения вещей после смерти."
+    },
+    {
+      "name": "World Play Time Reborn",
+      "description": "Отображение времени, проведённого в мире."
+    },
+    {
+      "name": "Screenshot Gallery",
+      "description": "Галерея игровых скриншотов."
+    },
+    {
+      "name": "Chat Animation",
+      "description": "Анимации элементов чата."
+    },
+    {
+      "name": "Enhanced Groups",
+      "description": "Дополнительные возможности группового взаимодействия."
+    },
+    {
+      "name": "Cut Through",
+      "description": "Удобнее взаимодействовать с сущностями и объектами в определённых ситуациях."
+    },
+    {
+      "name": "Reach Behind",
+      "description": "Дополнительные возможности взаимодействия с блоками."
+    },
+    {
+      "name": "Vine & Barrel",
+      "description": "Дополнительные игровые взаимодействия и элементы."
+    },
+    {
+      "name": "Vehicle Upgrade",
+      "description": "Дополнительные улучшения для транспорта."
+    },
+    {
+      "name": "World of Silence",
+      "description": "Изменения и дополнительные элементы игрового мира."
     }
   ]
 }
